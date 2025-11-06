@@ -4,7 +4,7 @@
 >
 > GDUT Anyview 2024级数据结构作业和实验 个人题解留档
 >
-> ![](https://cdn.bili33.top/gh/GDUTMeow/Anyview-DataStructure2025-Reference/img/CleanShot 2025-11-06 at 11.09.56.png)
+> ![](https://cdn.bili33.top/gh/GDUTMeow/Anyview-DataStructure2025-Reference/img/CleanShot%202025-11-06%20at%2011.09.56.png)
 
 > [!warning]
 >
