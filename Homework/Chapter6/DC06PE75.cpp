@@ -1,3 +1,4 @@
+#include "allinclude.h"  //DO NOT edit this line
 BSTNode *Ranking(BSTree T, int k) {
     if (k <= 0) {
         return NULL;
